@@ -4,8 +4,8 @@ import React, { useState } from 'react';
   const [language, setLanguage] = useState('en');
 
   const content = {
-    en: "Every moment, a turning leaf in the vast script of time. May your digital presence be a masterpiece.",
-    bn: "প্রত্যেকটি মুহূর্ত, সময়ের বিশাল লিপিতে একটি মোড়। আপনার ডিজিটাল উপস্থিতি যেন হয় এক অনবদ্য সৃষ্টি।"
+    en: "Just move forward; don't listen to what anyone says. Keep doing what you have to do for your own good.",
+    bn: "শুধু সামনে এগিয়ে যাও; কে কী বলছে- তাতে কান দিও না। নিজের ভালোর জন্য যা করতে হবে, করতে থাকো।"
   };
 
   return (
